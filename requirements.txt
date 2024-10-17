@@ -1,6 +1,4 @@
-json
+python-dotenv 
+langchain            
 kor
-dotenv
-langchain
-os
 langchain_groq
