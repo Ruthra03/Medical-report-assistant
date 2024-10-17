@@ -1,0 +1,6 @@
+json
+kor
+dotenv
+langchain
+os
+langchain_groq
