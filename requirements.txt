@@ -2,3 +2,4 @@ python-dotenv
 langchain            
 kor
 langchain_groq
+streamlit
